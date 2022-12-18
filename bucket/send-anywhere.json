@@ -1,10 +1,14 @@
 {
     "version":  "0.0",
-    "url":  "https://update.send-anywhere.com/downloads/SendAnywhereSetup.exe",
+    "url":  "https://update.send-anywhere.com/downloads/SendAnywhereSetup.exe#/dl.7z",
     "license": "EULA",
     "homepage":  "https://send-anywhere.com",
-    "installer": {
-        "script": "SendAnywhereSetup.exe /S"
-    },
+    "pre_install": "Remove-Item \"$dir\\'$PLUGINSDIR\" -Force -Recuse",
+    "shortcuts": [
+        [
+            "Send Anywhere.exe",
+            "Send Anywhere"
+        ]
+    ],
     "bin":  "Send Anywhere.exe"
 }

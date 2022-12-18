@@ -4,5 +4,11 @@
     "license":  "GPL",
     "url":  "https://www.dropbox.com/s/v6q3vht6v1ssviv/Mod%20do%2077.zip?dl=1",
     "homepage":  "https://dropbox.com",
+    "shortcuts": [
+        [
+            "Kade Engine.exe",
+            "Kade Engine"
+        ]
+    ],
     "bin":  "Kade Engine.exe"
 }
