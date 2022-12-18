@@ -2,9 +2,7 @@
     "version":  "1.0.77",
     "description": "A Mod of Friday Night Funkin",
     "license":  "GPL",
-    "extract_dir":  "",
     "url":  "https://www.dropbox.com/s/v6q3vht6v1ssviv/Mod%20do%2077.zip?dl=1",
-    "depends":  "",
     "homepage":  "https://dropbox.com",
     "bin":  "Kade Engine.exe"
 }
