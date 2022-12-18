@@ -1,6 +1,7 @@
 {
     "version":  "0.0",
     "url":  "https://update.send-anywhere.com/downloads/SendAnywhereSetup.exe",
+    "license": "EULA",
     "homepage":  "https://send-anywhere.com",
     "bin":  "Send Anywhere.exe"
 }
