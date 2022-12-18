@@ -7,8 +7,7 @@
     "notes": "Not Launched yet and this will not install it",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FilmaBem2/FB-Install-Tool/releases",
-            "hash": "SKIP"
+            "url": "https://github.com/FilmaBem2/FB-Install-Tool/releases"
         }
     },
     "pre_install": "",
