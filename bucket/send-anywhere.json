@@ -3,5 +3,8 @@
     "url":  "https://update.send-anywhere.com/downloads/SendAnywhereSetup.exe",
     "license": "EULA",
     "homepage":  "https://send-anywhere.com",
+    "installer": {
+        "script": "SendAnywhereSetup.exe /S"
+    },
     "bin":  "Send Anywhere.exe"
 }
