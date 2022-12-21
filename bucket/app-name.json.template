@@ -5,6 +5,12 @@
     "homepage": "",
     "license": "",
     "notes": "",
+    "depends": [
+        ""
+    ],
+    "suggest": [
+        ""
+    ],
     "architecture": {
         "64bit": {
             "url": "",

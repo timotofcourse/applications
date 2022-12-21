@@ -5,6 +5,9 @@
     "homepage": "https://github.com/FilmaBem2/FB-Install-Tool",
     "license": "MIT",
     "notes": "Not Launched yet and this will not install it",
+    "depends": [
+        "winget"
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/FilmaBem2/FB-Install-Tool/releases"
