@@ -1,0 +1,14 @@
+{
+    "version":  "1.2.77-preview-1",
+    "description": "[Preview] A Mod of Friday Night Funkin",
+    "license":  "GPL",
+    "url":  "https://www.dropbox.com/s/4075m7k94b8pwr2/mod-do-77-1.2.77-preview-1-windows.zip?dl=1",
+    "homepage":  "https://dropbox.com",
+    "shortcuts": [
+        [
+            "77.exe",
+            "Mod do 77 [Preview]"
+        ]
+    ],
+    "bin":  "77.exe"
+}
