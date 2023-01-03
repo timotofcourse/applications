@@ -1,0 +1,14 @@
+{
+    "version":  "1.0.0",
+    "description": "Inno Setup. Installer maker",
+    "license":  "EULA",
+    "url":  "https://objects.githubusercontent.com/github-production-release-asset-2e65be/216111906/e7c453eb-312e-4beb-8fec-03004645a92c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230103T083536Z&X-Amz-Expires=300&X-Amz-Signature=e2a5a97de27ff0a632178acbd623ea2ba3667cb025361af1908579796e1c552b&X-Amz-SignedHeaders=host&actor_id=77255598&key_id=0&repo_id=216111906&response-content-disposition=attachment%3B%20filename%3Dinnosetup-portable-win32-6.2.0-5.7z&response-content-type=application%2Foctet-stream",
+    "homepage":  "https://portapps.io/",
+    "shortcuts": [
+        [
+            "innosetup-portable.exe",
+            "Inno Setup"
+        ]
+    ],
+    "bin":  "innosetup-portable.exe"
+}
