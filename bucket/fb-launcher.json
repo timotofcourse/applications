@@ -6,9 +6,9 @@
     "homepage":  "https://github.com/FilmaBem2",
     "shortcuts": [
         [
-            "77.exe",
-            "Mod do 77"
+            "fb-launcher.exe",
+            "FB Launcher"
         ]
     ],
-    "bin":  "77.exe"
+    "bin":  "fb-launcher.exe"
 }
