@@ -5,5 +5,11 @@
     "homepage": "https://www.curseforge.com",
     "license": "EULA",
     "url": "https://www.dropbox.com/s/rt0z68rkuwci3fh/CurseForgeStandalone.msi?dl=1",
-    "bin": ""
+    "shortcuts": [
+        [
+            "CurseForge.exe",
+            "CurseForge"
+        ]
+    ],
+    "bin": "CurseForge.exe"
 }
