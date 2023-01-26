@@ -5,10 +5,5 @@
     "homepage": "https://www.curseforge.com",
     "license": "EULA",
     "url": "https://www.dropbox.com/s/rt0z68rkuwci3fh/CurseForgeStandalone.msi?dl=1",
-    "installer": {
-        "args": [
-            "/qb"
-        ]
-    },
     "bin": ""
 }
