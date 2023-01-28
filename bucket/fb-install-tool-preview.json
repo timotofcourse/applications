@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FilmaBem2/FB-Install-Tool/releases/download/testing-builds/FB-Install-Tool-22.12.17-1.exe"
+            "url": "https://github.com/FilmaBem2/applications/releases/download/preview/fb-install-tool.exe"
         }
     },
     "pre_install": "winget install -e Chocolatey.ChocolateyGUI",
@@ -24,5 +24,11 @@
     "uninstaller": {
         "script": ""
     },
-    "bin": ""
+    "bin": "fb-install-tool.exe",
+    "shortcuts": [
+        [
+        "fb-install-tool.exe",
+        "FB Install Tool"
+        ]
+    ]
 }
