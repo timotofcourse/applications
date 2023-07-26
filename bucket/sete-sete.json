@@ -3,7 +3,7 @@
     "description": "A joke game about 77",
     "homepage": "https://github.com/FilmaBem2",
     "license": "MIT",
-    "url": "https://www.dropbox.com/s/m7levypj574vcyx/sete-sete.zip?dl=1",
+    "url": "https://www.dropbox.com/s/pytoi1reg70xya2/sete-sete.zip?dl=1",
 
     "installer": {
         "script": ""
@@ -13,9 +13,9 @@
     },
     "shortcuts": [
         [
-            "sete-sete/77questforperfection.exe",
+            "77questforperfection.exe",
             "77: Quest for perfection"
         ]
     ],
-    "bin": "sete-sete/77questforperfection.exe"
+    "bin": "77questforperfection.exe"
 }
