@@ -4,13 +4,6 @@
     "homepage": "https://github.com/FilmaBem2",
     "license": "MIT",
     "url": "https://www.dropbox.com/s/pytoi1reg70xya2/sete-sete.zip?dl=1",
-
-    "installer": {
-        "script": ""
-    },
-    "uninstaller": {
-        "script": ""
-    },
     "shortcuts": [
         [
             "77questforperfection.exe",
