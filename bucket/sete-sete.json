@@ -12,9 +12,9 @@
     },
     "shortcuts": [
         [
-            "77questforperfection-0.5.77-win/77questforperfection.exe",
+            "sete-sete/77questforperfection.exe",
             "77: Quest for perfection"
         ]
     ],
-    "bin": "77questforperfection-0.5.77-win/77questforperfection.exe"
+    "bin": "sete-sete/77questforperfection.exe"
 }
