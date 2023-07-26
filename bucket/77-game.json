@@ -1,6 +1,6 @@
 {
     "##": "A joke game about 77.",
-    "version": "0.2.77",
+    "version": "0.5.77",
     "description": "A joke game about 77",
     "homepage": "",
     "license": "MIT",
@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://download1531.mediafire.com/esjubetbjbtgp4FGT9GOAtXPrqmHz13tHAKqdLg5JQ21vIykeexoDvDtzRUc5JyJBSOqPqhmzc6wVfhoZ5vvCfwHvA3t9r-N-50UtiXKM8R4anEnzSScg3HpEWaRi6qmLM60YSvBg4lADb9nP08O06tpqD03N7fFFDoNcz7Hd97n/1ffyngg5fd2zj8q/77+quest+for+perfection+0.2.77+WINDOWS.zip"
+            "url": "https://www.dropbox.com/s/m7levypj574vcyx/77_perfection.zip?dl=1"
         }
     },
     "installer": {
@@ -25,5 +25,5 @@
             "CurseForge"
         ]
     ],
-    "bin": "77questforperfection-0.2.77-win/77questforperfection.exe"
+    "bin": "77questforperfection-0.5.77-win/77questforperfection.exe"
 }
