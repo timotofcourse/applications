@@ -1,10 +1,8 @@
 {
-    "##": "A joke game about 77.",
     "version": "0.5.77",
     "description": "A joke game about 77",
     "homepage": "https://github.com/FilmaBem2",
     "license": "MIT",
-    "notes": "",
     "depends": [
         ""
     ],
@@ -17,8 +15,8 @@
     },
     "shortcuts": [
         [
-            "CurseForge.exe",
-            "CurseForge"
+            "77questforperfection-0.5.77-win/77questforperfection.exe",
+            "77: Quest for perfection"
         ]
     ],
     "bin": "77questforperfection-0.5.77-win/77questforperfection.exe"
