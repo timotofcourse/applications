@@ -13,7 +13,9 @@
     },
     "bin": "xdeltaUI.exe",
     "shortcuts": [
-        "xdeltaUI.exe",
-        "Xdelta"
+        [
+            "xdeltaUI.exe",
+            "Xdelta"
+        ]
     ]
 }
