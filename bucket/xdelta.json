@@ -1,0 +1,19 @@
+{
+    "version": "1.1",
+    "description": "Patch creator and applier",
+    "homepage": "https://www.romhacking.net/utilities/598/",
+    "license": "N/A",
+    "notes": "",
+    
+    "architecture": {
+        "64bit": {
+            "url": "https://www.dropbox.com/scl/fi/x4kb92qph2k7kd5qt366g/xdeltaUI.zip?rlkey=uojxaoz815uay7vu62ikyll0e&dl=1",
+            "hash": "5b7450a02e7bfa9ea0ea647f75f35b7833595ee5ca977fc3e628e27681cdc1ec"
+        }
+    },
+    "bin": "xdeltaUI.exe",
+    "shortcuts": [
+        "xdeltaUI.exe",
+        "Xdelta"
+    ]
+}
