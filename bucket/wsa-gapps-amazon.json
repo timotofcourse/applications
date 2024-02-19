@@ -11,6 +11,6 @@
     },
     "post_install": [
         "echo Registring this WSA Install...",
-        "Run.bat"
+        "$dir\\WSA_$version_x64\\Run.bat"
     ]
 }
